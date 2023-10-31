@@ -1,6 +1,6 @@
 # Hi there I am Onurcan 👋
 
-- 🔭 I’m currently working on @ShapeGames
+- 🔭 I’m currently working on @[ShapeGames](https://www.shapegames.com/)
 - 🌱 I’m currently learning MAD Android and Jetpack Compose
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/onurcan-keskin-andev97/)
 
