@@ -25,14 +25,14 @@
 <div align="center"> 
   <a href="https://github.com/onurcan-keskin#gh-dark-mode-only">
     <img
-      src="https://github-readme-stats-steel-omega.vercel.app/api?username=onurcan-keskin&show_icons=true&include_all_commits=true&icon_color=2d77dc&title_color=2d77dc&text_color=ffffff&bg_color=0d1117&hide_border=true&number_format=long&rank_icon=percentile&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage#gh-dark-mode-only"
+      src="https://github-readme-stats-steel-omega.vercel.app/api?username=onurcan-keskin&show_icons=true&include_all_commits=true&icon_color=2d77dc&title_color=2d77dc&text_color=ffffff&bg_color=35,0B0E12,0B0E12,875191&hide_border=true&number_format=long&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage#gh-dark-mode-only"
       alt="My Github stats"
       height="370"
     />
   </a>
   <a href="https://github.com/onurcan-keskin#gh-dark-mode-only">
     <img
-      src="https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=onurcan-keskin&layout=pie&icon_color=2d77dc&title_color=2d77dc&text_color=ffffff&bg_color=0d1117&hide_border=true&langs_count=10#gh-dark-mode-only"
+      src="https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=onurcan-keskin&layout=pie&icon_color=2d77dc&title_color=2d77dc&text_color=ffffff&bg_color=35,0B0E12,0B0E12,875191&hide_border=true&langs_count=10#gh-dark-mode-only"
       alt="My Language stats"
       height="370"
     />
@@ -43,7 +43,7 @@
 <div align="center">
   <a href="https://github.com/onurcan-keskin#gh-light-mode-only">
     <img
-       src="https://github-readme-streak-stats-phi-opal.vercel.app/?user=onurcan-keskin&locale=en&type=svg&hide_border=true&fire=2d77dc&ring=2d77dc&currStreakLabel=000000"
+       src="https://github-readme-streak-stats-phi-opal.vercel.app/?user=onurcan-keskin&locale=en&type=svg&hide_border=true&bg_color=35,0B0E12,0B0E12,875191&fire=2d77dc&ring=2d77dc&currStreakLabel=000000"
        alt="My GitHub streak stats"
      />
   </a>
