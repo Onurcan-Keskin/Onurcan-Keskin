@@ -2,7 +2,7 @@
 # Hi there I am Onurcan 👋
 
 - 🔭 I’m currently working on @[Roofstacks](https://roofstacks.com/)
-- 🌱 I’m currently building @[GAİN](https://play.google.com/store/apps/details?id=com.trgain.mikrogain&hl=tr&pli=1) for android app, tv and fireTv with com
+- 🌱 I’m currently building @[GAİN](https://play.google.com/store/apps/details?id=com.trgain.mikrogain&hl=tr&pli=1) for Android app, tv and Amazon Fire Tv with compose
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/onurcan-keskin-andev97/)
 
 <div style="display: flex; flex-direction: column; justify-content: center; align-items: center; gap: 20px;">
